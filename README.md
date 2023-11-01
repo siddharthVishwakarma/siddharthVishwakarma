@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @siddharthVishwakarma.
-- 👀 I’m interested in Web Devlopment.
-- 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking for a new opertunity in a field of DevOps.
+Welcome to my GitHub profile! I'm a DevOps engineer passionate about automating, optimizing, and streamlining software development and IT operations. This repository serves as an overview of my projects, contributions, and interests in the field of DevOps. Feel free to explore my work and reach out if you have any questions or collaboration opportunities.
